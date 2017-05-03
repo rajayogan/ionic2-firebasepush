@@ -1,0 +1,141 @@
+{
+  "project_info": {
+    "project_number": "493016366518",
+    "firebase_url": "https://myapp-4eadd.firebaseio.com",
+    "project_id": "myapp-4eadd",
+    "storage_bucket": "myapp-4eadd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493016366518:android:ee7fd3815128a7c5",
+        "android_client_info": {
+          "package_name": "com.ionicframework.funcpush201676"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493016366518-qj0bq8q6hr4ab003p96hh812sr8khnup.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "493016366518-v6pm4okf8fmh9jdc67n7odtdvoibr64o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ionicframework.funcpush201676",
+            "certificate_hash": "6d0e7405b2eb137e9c7ace24f9d170987784eb51"
+          }
+        },
+        {
+          "client_id": "493016366518-q2dqm8p4rm1fbmkloahk8cf2adsilie6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "493016366518-9rl90907bqqhkk5v8hgiaudgu8n0m813.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUOWB0AfTNJQkn1iGOibl5AsG3l7fSFB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493016366518-qj0bq8q6hr4ab003p96hh812sr8khnup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493016366518:android:2c0dfa6c25cc0b38",
+        "android_client_info": {
+          "package_name": "com.ionicframework.fbpush693455"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493016366518-qj0bq8q6hr4ab003p96hh812sr8khnup.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "493016366518-q2dqm8p4rm1fbmkloahk8cf2adsilie6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "493016366518-9rl90907bqqhkk5v8hgiaudgu8n0m813.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUOWB0AfTNJQkn1iGOibl5AsG3l7fSFB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493016366518:android:4eef543540645481",
+        "android_client_info": {
+          "package_name": "com.ionicframework.firebasepush218855"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493016366518-qj0bq8q6hr4ab003p96hh812sr8khnup.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "493016366518-q2dqm8p4rm1fbmkloahk8cf2adsilie6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "493016366518-9rl90907bqqhkk5v8hgiaudgu8n0m813.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUOWB0AfTNJQkn1iGOibl5AsG3l7fSFB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
